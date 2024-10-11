@@ -1,0 +1,29 @@
+/* Write your CSS here */
+* {
+  font-family: 'Bree Serif';
+}
+
+.main-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.heading {
+  color: #f0bb03;
+  font-size: 96px;
+  margin-bottom: 12px;
+}
+
+.greeting {
+  color: #ffffff;
+  font-size: 30px;
+}
+
+.subscribe-btn {
+  border-radius: 8px;
+  padding: 18px;
+  font-size: 21px;
+  color: #1e293b;
+  font-weight: 700;
+}
